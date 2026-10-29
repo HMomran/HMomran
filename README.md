@@ -114,16 +114,6 @@ simplifying appointment scheduling and hospital management.
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=HMomran&theme=transparent&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Current Goals
 
 - 🚀 Develop production-ready software applications
@@ -150,7 +140,7 @@ software engineering projects, and collaborations.
 
 <div align="center">
 
-### ⭐ Always Learning • Always Building • Always Improving
+###  Always Learning • Always Building • Always Improving
 
 Thanks for visiting my profile!
 
